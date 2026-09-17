@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <introduction>
+        <h1>Sam's Basement</h1>
+        <h2>My name is Sam</h2>
+        <p>I work in C#, and HTML</p>
+        <p>My email is Sam.j.woods730@outlook.com</p>
+    </introduction>
+    <body>
+        <h2>Portfolio</h2>
+        <p>I have been working on a couple games such as Overcharged and Bomb Blitz</p>
+        <a href = "https://mechanicore730.itch.io/">My Page</a><br>
+        <a href = "https://mechanicore730.itch.io/card-maximum">Overcharged</a><br>
+        <a href = "https://mechanicore730.itch.io/bomb-blitz">Bomb Blitz</a>
+    </body>
+</html>
