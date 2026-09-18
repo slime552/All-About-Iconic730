@@ -5,3 +5,4 @@ I am in a computer science academy at BHTS (Bartram trail) and am trying to crea
 - Learned how to combine images and links
 - Learned how to make lists
 - Learned how to make tables
+- Learned em and strong tags for bold and emphasized words
