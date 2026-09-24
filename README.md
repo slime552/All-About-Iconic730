@@ -8,3 +8,4 @@ I am in a computer science academy at BHTS (Bartram trail) and am trying to crea
 - Learned em and strong tags for bold and emphasized words
 - Learned how to style text with color and font-size
 - Learned how to give the background color
+- Learned CSS coloring to replace the style tag for certain things
